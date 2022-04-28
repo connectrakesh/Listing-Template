@@ -1,0 +1,357 @@
+@media all 
+and (min-width: 600px) 
+and (max-width: 768px) {
+	body {-webkit-text-size-adjust: 100%;}
+	#container {width: 99%; margin: 0 auto; overflow: hidden;}
+	#logo {float: none; width: 100%; text-align: center;}
+	#logo img {width: 75%;}
+	#hdrRght {display: none;}
+	#topNav {display: none;}
+	#mobMenu {display: block;}
+	#prodTitle {text-align: center;}
+	#prodTitle h1 {font-size: 20px;}
+    #galleryBlock {float: none; width: 540px; margin: 0 auto;}
+	ul#galleryLrg {float: none; width: 540px; height: 540px;}
+	ul#galleryLrg li .galInner {width: 540px; height: 540px;}
+	ul#galleryThumbs {float: none; width: 540px; margin-top: 10px; text-align: center;}
+	ul#galleryThumbs li {float: none; display: inline-block; width: 100px; height: 100px; margin-bottom: 0;}
+    #benBan {float: none; width: 100%; height: auto; margin-top: 6px;}
+	#benBan ul {text-align: center;}
+	#benBan ul li {padding: 6px 0 6px 0; background: none;}
+	#benBan img {padding-top: 20px; width: 50%;}
+    .descrHd {padding-bottom: 0; font-size: 23px;}
+	.specsCol, .specs2Cols .specsCol {float: none; width: 100%; min-height: auto;}
+	#specsCol1 {margin-top: 5px; padding-right: 0; border-right: none;}
+	#specsCol2 {margin-top: 15px; padding-left: 0; padding-right: 0;}
+	#specsCol3 {margin-top: 15px; padding-left: 0; border-left: none;}
+	.specLine, #descrTxt {font-size: 18px;}
+	#descrTxt {margin-top: 8px; text-align: justify; line-height: 25px;}
+	#upgrGold {width: 32.333%; margin-left: 1%; text-align: center;}
+	#upgrHead, .upgrHead {font-size: 18px; text-align: left;}
+	#upgrGold img {float: none; width: 50%; margin: 0 auto; text-align: center;}
+	#upgrGold span {float: none; width: 100%; display: block; line-height: 20px;}
+	#upgrSize {width: 32.333%; margin-left: 1%; padding: 10px 0; text-align: center;}
+	#upgrSize #upgrHead, #upgrSize .upgrHead {display: none;}
+	#upgrSize img {position: relative; height: 77px; margin-bottom: 0;}
+	#upgrSize span {float: none; width: 100%; display: block; text-align: center; line-height: 20px;}
+	#upgrSize span br {display: none;}
+	#upgrStone {float: right; width: 32.333%; height: 140px; padding: 10px 0 0 15px; background-position: bottom right; background-size: 100% auto;}
+	#upgrStone a {font-size: 20px;}
+	#upgrStone a span {font-size: 18px;}
+	#policyBlock {margin: 15px auto;}
+	#policyBlock label {width: 100% !important; font-size: 20px; border-bottom: 1px solid #26457c;}
+	#fCatsBlock {padding-left: 0;}
+	#fCatModel{ display: none;}
+	.fCat {width: 32.333%; height: 225px; margin-right: 1.5%; margin-bottom: 10px;}
+	#fCat3, #fCat6 {margin-right: 0;}
+	#fCat4, #fCat5, #fCat6  {margin-bottom: 0;}
+	.fCatNm a .fCatL1 {font-size: 22px;}
+	.fCatNm a .fCatL2 {font-size: 16px;}
+    .fCatNm a .fCatL3 {font-size: 14px;}
+	.fCatIm {margin-top: 20px;}
+	#labLogosIn {padding: 0 15px;}
+	.labLg {padding-left: 50px;}#labLg1 {background-size: auto 45px;}
+	#labLg2 {background-size: auto 45px;}
+	#labLg3 {background-size: auto 45px;}
+	#labLg4 {background-size: auto 40px; padding-left: 65px;}
+	.labTxt {font-size: 6px;}
+	.labNm {font-size: 20px;}
+	#footerLinks {display: none;}
+	#copyNote {float: none; margin-top: 5px; text-align: center;}
+	#footerLogos {float: none; text-align: center; margin-top: 15px;}
+    #footerLogos img:nth-child(4) {height: 30px; margin-right: 5px;}
+}
+
+@media all 
+and (min-width: 500px) 
+and (max-width: 600px) {
+	body {-webkit-text-size-adjust: 100%;}
+	#container {width: 99%; margin: 0 auto; overflow: hidden;}
+	#logo {float: none; width: 100%; text-align: center;}
+	#logo img {width: 85%;}
+	#hdrRght {display: none;}
+	#topNav {display: none;}
+	#mobMenu {display: block;}
+	#prodTitle {text-align: center;}
+	#prodTitle h1 {font-size: 20px;}
+    #galleryBlock {float: none; width: 445px; margin: 0 auto;}
+	ul#galleryLrg {float: none; width: 445px; height: 445px;}
+	ul#galleryLrg li .galInner {width: 445px; height: 445px;}
+	ul#galleryThumbs {float: none; width: 445px; margin-top: 10px; text-align: center;}
+	ul#galleryThumbs li {float: none; display: inline-block; width: 60px; height: 60px; margin-bottom: 0;}
+    #benBan {float: none; width: 100%; height: auto; margin-top: 6px;}
+	#benBan ul {text-align: center;}
+	#benBan ul li {padding: 6px 0 6px 0; background: none;}
+	#benBan img {padding-top: 20px; width: 50%;}
+    .descrHd {padding-bottom: 0; font-size: 23px;}
+	.specsCol, .specs2Cols .specsCol {float: none; width: 100%; min-height: auto;}
+	#specsCol1 {margin-top: 5px; padding-right: 0; border-right: none;}
+	#specsCol2 {margin-top: 15px; padding-left: 0; padding-right: 0;}
+	#specsCol3 {margin-top: 15px; padding-left: 0; border-left: none;}
+	.specLine, #descrTxt {font-size: 18px;}
+	#descrTxt {margin-top: 8px; text-align: justify; line-height: 25px;}
+	#upgrGold {float: none; width: 100%; margin-left: 0; text-align: center; border-bottom: 1px solid #d5d5ee;}
+	#upgrGold img {float: none; width: 30%; margin: 0 auto; text-align: center;}
+	#upgrGold span {float: none; width: 100%; display: block; line-height: 20px;}
+	#upgrSize {width: 49%; margin-left: 0; padding: 10px 0; text-align: center;}
+	#upgrSize #upgrHead, #upgrSize .upgrHead {display: none;}
+	#upgrSize img {position: relative; height: 85px; margin-bottom: 0;}
+	#upgrSize span {float: none; width: 100%; display: block; text-align: center; line-height: 20px;}
+	#upgrSize span br {display: none;}
+	#upgrStone {float: right; width: 49%; height: 140px; padding: 10px 0 0 15px; background-position: bottom right; background-size: 100% auto;}
+	#upgrStone a {font-size: 20px;}
+	#upgrStone a span {font-size: 18px;}
+	#policyBlock {margin: 15px auto;}
+	#policyBlock label {width: 100% !important; font-size: 20px; border-bottom: 1px solid #26457c;}
+	#fCatsBlock {padding-left: 0;}
+	#fCatModel{ display: none;}
+	.fCat {width: 32.333%; height: 225px; margin-right: 1.5%; margin-bottom: 10px;}
+	#fCat3, #fCat6 {margin-right: 0;}
+	#fCat4, #fCat5, #fCat6  {margin-bottom: 0;}
+	.fCatNm a .fCatL1 {font-size: 22px;}
+	.fCatNm a .fCatL2 {font-size: 16px;}
+    .fCatNm a .fCatL3 {font-size: 14px;}
+	.fCatIm {margin-top: 20px;}
+	#labLogosIn {padding: 0 15px;}
+	.labLg {padding-left: 50px;}#labLg1 {background-size: auto 45px;}
+	#labLg2 {background-size: auto 45px;}
+	#labLg3 {background-size: auto 45px;}
+	#labLg4 {background-size: auto 40px; padding-left: 65px;}
+	.labTxt {font-size: 6px;}
+	.labNm {font-size: 20px;}
+	#footerLinks {display: none;}
+	#copyNote {float: none; margin-top: 5px; text-align: center;}
+	#footerLogos {float: none; text-align: center; margin-top: 15px;}
+    #footerLogos img:nth-child(4) {height: 30px; margin-right: 5px;}
+}
+
+@media all 
+and (min-width: 400px) 
+and (max-width: 500px) {
+	body {-webkit-text-size-adjust: 100%;}
+	#container {width: 99%; margin: 0 auto; overflow: hidden;}
+	#logo {float: none; width: 100%; text-align: center;}
+	#logo img {width: 90%;}
+	#hdrRght {display: none;}
+	#topNav {display: none;}
+	#mobMenu {display: block;}
+	.shCell {width: 20%;}
+	#sh06, #sh07, #sh08, #sh09, #sh10 {margin-top: 10px;}
+	#prodTitle {text-align: center;}
+	#prodTitle h1 {font-size: 20px;}
+    #galleryBlock {float: none; width: 345px; margin: 0 auto;}
+	ul#galleryLrg {float: none; width: 345px; height: 345px;}
+	ul#galleryLrg li .galInner {width: 345px; height: 345px;}
+	ul#galleryThumbs {float: none; width: 345px; margin-top: 10px; text-align: center;}
+	ul#galleryThumbs li {float: none; display: inline-block; width: 60px; height: 60px; margin-bottom: 0;}
+    #benBan {float: none; width: 100%; height: auto; margin-top: 6px;}
+	#benBan ul {text-align: center;}
+	#benBan ul li {padding: 6px 0 6px 0; background: none;}
+	#benBan img {padding-top: 20px; width: 60%;}
+    .descrHd {padding-bottom: 0; font-size: 23px;}
+	.specsCol, .specs2Cols .specsCol {float: none; width: 100%; min-height: auto;}
+	#specsCol1 {margin-top: 5px; padding-right: 0; border-right: none;}
+	#specsCol2 {margin-top: 15px; padding-left: 0; padding-right: 0;}
+	#specsCol3 {margin-top: 15px; padding-left: 0; border-left: none;}
+	.specLine, #descrTxt {font-size: 18px;}
+	#descrTxt {margin-top: 8px; text-align: justify; line-height: 30px;}
+	#upgrGold {float: none; width: 100%; margin-left: 0; text-align: center; border-bottom: 1px solid #d5d5ee;}
+	#upgrGold img {float: none; width: 30%; margin: 0 auto; text-align: center;}
+	#upgrGold span {float: none; width: 100%; display: block; line-height: 20px;}
+	#upgrSize {width: 49%; margin-left: 0; padding: 10px 0; text-align: center;}
+	#upgrSize #upgrHead, #upgrSize .upgrHead {display: none;}
+	#upgrSize img {position: relative; height: 85px; margin-bottom: 0;}
+	#upgrSize span {float: none; width: 100%; display: block; text-align: center; line-height: 20px;}
+	#upgrSize span br {display: none;}
+	#upgrStone {float: right; width: 49%; height: 140px; padding: 10px 0 0 15px; background-position: bottom right; background-size: 100% auto;}
+	#upgrStone a {font-size: 20px;}
+	#upgrStone a span {font-size: 18px;}
+	#policyBlock {margin: 15px auto;}
+	#policyBlock label {width: 100% !important; font-size: 20px; border-bottom: 1px solid #26457c;}
+	#fCatsBlock {padding-left: 0;}
+	#fCatModel{ display: none;}
+	.fCat {width: 49%; height: 225px; margin-right: 2%; margin-bottom: 10px;}
+	#fCat2, #fCat4, #fCat6 {margin-right: 0;}
+	#fCat5, #fCat6  {margin-bottom: 0;}
+	.fCatNm a .fCatL1 {font-size: 22px;}
+	.fCatNm a .fCatL2 {font-size: 16px;}
+    .fCatNm a .fCatL3 {font-size: 14px;}
+	.fCatIm {margin-top: 20px;}
+	.labLg {padding: 70px 0 8px 0; background-position: top center !important; text-align: center;}
+	#labLg1 {background-size: auto 65px;}
+	#labLg2 {background-size: auto 65px;}
+	#labLg3 {background-size: auto 65px;}
+	#labLg4 {background-size: auto 55px; padding-left: 0;}
+	.labTxt {font-size: 10px;}
+	.labNm {font-size: 25px;}
+	#footerLinks {display: none;}
+	#copyNote {float: none; margin-top: 5px; text-align: center;}
+	#footerLogos {float: none; text-align: center; margin-top: 15px;}
+    #footerLogos img:nth-child(4) {height: 30px; margin-right: 5px;}
+}
+
+@media all 
+and (min-width: 300px) 
+and (max-width: 400px) {
+	body {-webkit-text-size-adjust: 100%;}
+	#container {width: 99%; margin: 0 auto; overflow: hidden;}
+	#logo {float: none; width: 100%; text-align: center;}
+	#logo img {width: 95%;}
+	#hdrRght {display: none;}
+	#topNav {display: none;}
+	#mobMenu {display: block;}
+	.shCell {width: 20%;}
+	#sh06, #sh07, #sh08, #sh09, #sh10 {margin-top: 10px;}
+	.shCell a img {height: 50px;}
+	#prodTitle {text-align: center;}
+	#prodTitle h1 {font-size: 19px;}
+    #galleryBlock {float: none; width: 245px; margin: 0 auto;}
+	ul#galleryLrg {float: none; width: 245px; height: 245px;}
+	ul#galleryLrg li .galInner {width: 245px; height: 245px;}
+	ul#galleryThumbs {float: none; width: 245px; margin-top: 10px; text-align: center;}
+	ul#galleryThumbs li {float: none; display: inline-block; width: 40px; height: 40px; margin-bottom: 0;}
+    #benBan {float: none; width: 100%; height: auto; margin-top: 6px;}
+	#benHd {font-size: 35px; margin-bottom: 5px;}
+	#benBan ul {text-align: center;}
+	#benBan ul li {padding: 5px 0 5px 0; font-size: 18px; background: none;}
+	#benBan img {padding-top: 20px; width: 80%;}
+    .descrHd {padding-bottom: 0; font-size: 20px;}
+	.specsCol, .specs2Cols .specsCol {float: none; width: 100%; min-height: auto;}
+	#specsCol1 {margin-top: 5px; padding-right: 0; border-right: none;}
+	#specsCol2 {margin-top: 15px; padding-left: 0; padding-right: 0;}
+	#specsCol3 {margin-top: 15px; padding-left: 0; border-left: none;}
+	.specLine, #descrTxt {font-size: 15px;}
+	#descrTxt {margin-top: 8px; text-align: justify; line-height: 25px;}
+	#upgrGold {float: none; width: 100%; margin-left: 0; text-align: center; border-bottom: 1px solid #d5d5ee;}
+	#upgrGold img {float: none; width: 30%; margin: 0 auto; text-align: center;}
+	#upgrGold span {float: none; width: 100%; display: block; line-height: 20px;}
+	#upgrSize {width: 49%; margin-left: 0; padding: 10px 0; text-align: center;}
+	#upgrSize #upgrHead, #upgrSize .upgrHead {display: none;}
+	#upgrSize img {position: relative; height: 85px; margin-bottom: 0;}
+	#upgrSize span {float: none; width: 100%; display: block; text-align: center; line-height: 20px;}
+	#upgrSize span br {display: none;}
+	#upgrStone {float: right; width: 49%; height: 140px; padding: 10px 0 0 15px; background-position: bottom right; background-size: 100% auto;}
+	#upgrStone a {font-size: 20px;}
+	#upgrStone a span {font-size: 18px;}
+	#policyBlock {margin: 15px auto;}
+	#policyBlock label {width: 100% !important; font-size: 20px; border-bottom: 1px solid #26457c;}
+	#fCatsBlock {padding-left: 0;}
+	#fCatModel{ display: none;}
+	.fCat {width: 49%; height: auto; margin-right: 2%; margin-bottom: 10px;}
+	#fCat2, #fCat4, #fCat6 {margin-right: 0;}
+	#fCat5, #fCat6  {margin-bottom: 0;}
+	.fCatNm a .fCatL1 {font-size: 19px;}
+	.fCatNm a .fCatL2 {font-size: 14px;}
+    .fCatNm a .fCatL3 {font-size: 13px;}
+	.fCatIm {margin-top: 20px;}
+	.labLg {padding: 55px 0 8px 0; background-position: top center !important; text-align: center;}
+	#labLg1 {background-size: auto 50px;}
+	#labLg2 {background-size: auto 50px;}
+	#labLg3 {background-size: auto 50px;}
+	#labLg4 {background-size: 60px auto; padding-left: 0;}
+	.labTxt {font-size: 8px;}
+	.labNm {font-size: 25px;}
+	#footerLinks {display: none;}
+	#copyNote {float: none; margin-top: 5px; text-align: center;}
+	#footerLogos {float: none; text-align: center; margin-top: 15px;}
+    #footerLogos img:nth-child(4) {height: 30px; margin-right: 5px;}
+}
+@media all 
+and (min-width: 100px) 
+and (max-width: 300px) {
+	body {-webkit-text-size-adjust: 100%;}
+	#container {width: 99%; margin: 0 auto; overflow: hidden;}
+	#logo {float: none; width: 100%; text-align: center;}
+	#logo img {width: 98%;}
+	#hdrRght {display: none;}
+	#topNav {display: none;}
+	#mobMenu {display: block;}
+	.shCell {width: 20%;}
+	#sh06, #sh07, #sh08, #sh09, #sh10 {margin-top: 10px;}
+	.shCell a img {height: 40px;}
+	#prodTitle {text-align: center;}
+	#prodTitle h1 {font-size: 19px;}
+    #galleryBlock {float: none; width: 180px; margin: 0 auto;}
+	ul#galleryLrg {float: none; width: 180px; height: 180px;}
+	ul#galleryLrg li .galInner {width: 180px; height: 180px;}
+	ul#galleryThumbs {float: none; width: 180px; margin-top: 10px; text-align: center;}
+	ul#galleryThumbs li {float: none; display: inline-block; width: 40px; height: 40px; margin-bottom: 0;}
+    #benBan {float: none; width: 100%; height: auto; margin-top: 6px;}
+	#benHd {font-size: 35px; margin-bottom: 5px;}
+	#benBan ul {text-align: center;}
+	#benBan ul li {padding: 5px 0 5px 0; font-size: 18px; background: none;}
+	#benBan img {padding-top: 20px; width: 80%;}
+    .descrHd {padding-bottom: 0; font-size: 20px;}
+	.specsCol, .specs2Cols .specsCol {float: none; width: 100%; min-height: auto;}
+	#specsCol1 {margin-top: 5px; padding-right: 0; border-right: none;}
+	#specsCol2 {margin-top: 15px; padding-left: 0; padding-right: 0;}
+	#specsCol3 {margin-top: 15px; padding-left: 0; border-left: none;}
+	.specLine, #descrTxt {font-size: 15px;}
+	#descrTxt {margin-top: 8px; text-align: justify; line-height: 25px;}
+	#upgrGold {float: none; width: 100%; margin-left: 0; text-align: center; border-bottom: 1px solid #d5d5ee;}
+	#upgrGold img {float: none; width: 30%; margin: 0 auto; text-align: center;}
+	#upgrGold span {float: none; width: 100%; display: block; line-height: 20px;}
+	#upgrSize {width: 49%; margin-left: 0; padding: 10px 0; text-align: center;}
+	#upgrSize #upgrHead, #upgrSize .upgrHead {display: none;}
+	#upgrSize img {position: relative; height: 85px; margin-bottom: 0;}
+	#upgrSize span {float: none; width: 100%; display: block; text-align: center; line-height: 20px;}
+	#upgrSize span br {display: none;}
+	#upgrStone {float: right; width: 49%; height: 140px; padding: 10px 0 0 15px; background-position: bottom right; background-size: 100% auto;}
+	#upgrStone a {font-size: 20px;}
+	#upgrStone a span {font-size: 18px;}
+	#policyBlock {margin: 15px auto;}
+	#policyBlock label {width: 100% !important; font-size: 20px; border-bottom: 1px solid #26457c;}
+	#fCatsBlock {padding-left: 0;}
+	#fCatModel{ display: none;}
+	.fCat {float: none; width: 100%; height: auto; margin-right: 0; margin-bottom: 10px;}
+	.fCatNm a .fCatL1 {font-size: 28px;}
+	.fCatNm a .fCatL2 {font-size: 20px;}
+    .fCatNm a .fCatL3 {font-size: 16px;}
+	.fCatIm {margin-top: 20px;}.labLg {padding: 45px 0 8px 0; background-position: top center !important; text-align: center;}
+	#labLg1 {background-size: auto 40px;}
+	#labLg2 {background-size: auto 40px;}
+	#labLg3 {background-size: auto 40px;}
+	#labLg4 {background-size: 40px auto; padding-left: 0;}
+	.labTxt {font-size: 8px;}
+	.labNm {font-size: 25px;}
+	#footerLinks {display: none;}
+	#copyNote {float: none; margin-top: 5px; text-align: center;}
+	#footerLogos {float: none; text-align: center; margin-top: 15px;}
+	#footerLogos img {height: 18px !important; margin: 0 3px;}
+    #footerLogos img:nth-child(4) {margin-right: 3px;}
+}
+
+@media all and (max-width: 768px) {
+	#gallBlock {float: none; width: 100%; margin: 0 auto; text-align: center;}
+	#gallBlock #gallBlockLgCell {float: none; width: 100%;}
+	#gallBlock .lrgImg {min-height: 530px;}
+	#gallBlock .lrgImg .imgLgIn {width: 530px; height: 530px;}
+	#gallBlock #gallThumbs {float: none; width: 100%; margin-top: 0.5rem; text-align: center;}
+	#gallBlock label {width: 85px;}
+	#gallBlock label .imgSmIn {width: 85px; height: 85px;}
+}
+@media all and (max-width: 599px) {
+	#gallBlock .lrgImg {min-height: 450px;}
+	#gallBlock .lrgImg .imgLgIn {width: 450px; height: 450px;}
+	#gallBlock label {width: 68px;}
+	#gallBlock label .imgSmIn {width: 68px; height: 68px;}
+}
+@media all and (max-width: 499px) {
+	#gallBlock .lrgImg {min-height: 350px;}
+	#gallBlock .lrgImg .imgLgIn {width: 350px; height: 350px;}
+	#gallBlock label {width: 80px;}
+	#gallBlock label .imgSmIn {width: 80px; height: 80px;}
+}
+@media all and (max-width: 399px) {
+	#gallBlock .lrgImg {min-height: 250px;}
+	#gallBlock .lrgImg .imgLgIn {width: 250px; height: 250px;}
+	#gallBlock label {width: 70px;}
+	#gallBlock label .imgSmIn {width: 70px; height: 70px;}
+}
+@media all and (max-width: 299px) {
+	#gallBlock .lrgImg {min-height: 150px;}
+	#gallBlock .lrgImg .imgLgIn {width: 150px; height: 150px;}
+	#gallBlock label {width: 60px;}
+	#gallBlock label .imgSmIn {width: 60px; height: 60px;}
+	
+}
